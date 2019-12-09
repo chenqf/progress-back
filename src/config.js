@@ -1,7 +1,7 @@
 export default {
     HTTP:{
         PROTOCOL:'http:',
-        HOSTNAME:'10.13.1.93',
+        HOSTNAME:'140.143.64.48',
         PORT:'3001',
         WITH_CREDENTIALS:true,
         TIMEOUT:3000
